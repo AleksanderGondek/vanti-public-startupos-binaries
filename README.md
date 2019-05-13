@@ -1,6 +1,7 @@
 >
 > ! Notice
-> This is a hard copy of [https://github.com/vanti-public/startupos-binaries/tree/6015370a96ead3945791dcf1ba0e09c7494f2d32](vanti-public/startupos-binaries).
+>
+> This is a hard copy of [vanti-public/startupos-binaries](https://github.com/vanti-public/startupos-binaries/tree/6015370a96ead3945791dcf1ba0e09c7494f2d32).
 >
 
 # startupos-binaries
